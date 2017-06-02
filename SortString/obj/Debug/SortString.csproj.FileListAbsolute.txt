@@ -1,0 +1,6 @@
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\bin\Debug\SortString.exe.config
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\bin\Debug\SortString.exe
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\bin\Debug\SortString.pdb
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\obj\Debug\SortString.csprojResolveAssemblyReference.cache
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\obj\Debug\SortString.exe
+c:\users\lugos\documents\visual studio 2017\Projects\SortString\SortString\obj\Debug\SortString.pdb
